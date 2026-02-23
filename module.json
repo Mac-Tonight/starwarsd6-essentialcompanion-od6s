@@ -6,7 +6,7 @@
   	"compatibility": {
     		"minimum": "10",
     		"verified": "12.330",
-		"maximum": "12"
+		"maximum": "13"
   	},
 	"authors": [
           {
@@ -118,6 +118,6 @@
 		}
 	],
 	"url" : "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s",
-	"manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",
-	"download": "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/archive/refs/heads/main.zip"
+	"manifest": "https://raw.githubusercontent.com/Mac-Tonight/starwarsd6-essentialcompanion-od6s/edit/main/module.json",
+	"download": "https://github.com/Mac-Tonight/starwarsd6-essentialcompanion-od6s/archive/refs/heads/main.zip"
 }
